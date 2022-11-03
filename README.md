@@ -1,2 +1,1 @@
-A clock
-Basically a timer
+A clock, basically a timer
